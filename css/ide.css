@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-    background: url(/images/judge0_background.png) no-repeat center center fixed;
+    background-color: #1e1e1e ;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
